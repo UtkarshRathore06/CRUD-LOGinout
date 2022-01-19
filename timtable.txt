@@ -1,0 +1,319 @@
+(0830 - 0925) -Monday-L-Suchi-Cloud Computing
+(0930 - 1025)-L-Core-Shakti Sharma-Automata Theory and Computability
+(1140 - 1235)-L-Core-Sridhar-Artificial Intelligence and Machine Learning
+(1240 - 1330)-T-Core-Shakti Sharma-Automata Theory and Computability
+(1330 - 1425)-P-Elective-Abuzar Sayeed-Cloud Infrastructure and Services
+(1430 - 1525)-P-Elective-Abuzar Sayeed-Cloud Infrastructure and Services
+(1740 - 1835)
+V
+Monday
+B14
+ECSE343L
+L
+Elective
+Arpit Bhardwaj
+Applied Machine Learning
+(0830 - 0925)
+V
+Tuesday
+B14
+G4
+ECSE303L
+L
+Core
+Sridhar
+Artificial Intelligence and Machine Learning
+(0930 - 1025)
+V
+Tuesday
+B14
+ECSE352L
+L
+Elective
+Kuldeep
+Cryptography and Network Security
+(1040 - 1135)
+V
+Tuesday
+B14
+ECSE304L
+P
+Core
+Neeraj Yadav
+Cloud Computing
+(1140 - 1235)
+V
+Tuesday
+B14
+ECSE304L
+P
+Core
+Neeraj Yadav
+Cloud Computing
+(1330 - 1425)
+V
+Tuesday
+B14
+ECSE343L
+P
+Elective
+Arpit Bhardwaj
+Applied Machine Learning
+(1430 - 1525)
+V
+Tuesday
+B14
+ECSE343L
+P
+Elective
+Arpit Bhardwaj
+Applied Machine Learning
+(1540 - 1635)
+V
+Tuesday
+B14
+ECSE379L
+L
+Elective
+Shivani Goel
+Programming using C++
+(1740 - 1835)
+V
+Tuesday
+B14
+ECSE351L
+L
+Elective
+Tapas Badal
+Game Design, Development and Programming
+(0830 - 0925)
+V
+Wednesday
+B14
+ECSE341L
+L
+Elective
+Sonal Kukreja
+Image and Video Processing
+(0930 - 1025)
+V
+Wednesday
+B14
+G4
+ECSE304L
+L
+Core
+Suchi
+Cloud Computing
+(1040 - 1135)
+V
+Wednesday
+B14
+G4
+ECSE305L
+L
+Core
+Shakti Sharma
+Automata Theory and Computability
+(1330 - 1425)
+V
+Wednesday
+B14
+ECSE341L
+P
+Elective
+Sonal Kukreja
+Image and Video Processing
+(1430 - 1525)
+V
+Wednesday
+B14
+ECSE341L
+P
+Elective
+Sonal Kukreja
+Image and Video Processing
+(1540 - 1635)
+V
+Wednesday
+B14
+ECSE343L
+L
+Elective
+Arpit Bhardwaj
+Applied Machine Learning
+(1740 - 1835)
+V
+Wednesday
+B14
+ECSE373L
+L
+Elective
+Indrajeet Gupta
+Cloud Infrastructure and Services
+(0830 - 0925)
+V
+Thursday
+B14
+ECSE351L
+L
+Elective
+Tapas Badal
+Game Design, Development and Programming
+(0930 - 1025)
+V
+Thursday
+B14
+G4
+ECSE303L
+L
+Core
+Sridhar
+Artificial Intelligence and Machine Learning
+(1040 - 1135)
+V
+Thursday
+B14
+ECSE352L
+L
+Elective
+Kuldeep
+Cryptography and Network Security
+(1430 - 1525)
+V
+Thursday
+B14
+ECSE303L
+P
+Core
+Arpit Bhardwaj
+Artificial Intelligence and Machine Learning
+(1540 - 1635)
+V
+Thursday
+B14
+ECSE303L
+P
+Core
+Arpit Bhardwaj
+Artificial Intelligence and Machine Learning
+(1640 - 1735)
+V
+Thursday
+B14
+ECSE373L
+L
+Elective
+Indrajeet Gupta
+Cloud Infrastructure and Services
+(1740 - 1835)
+V
+Thursday
+B14
+ECSE341L
+L
+Elective
+Sonal Kukreja
+Image and Video Processing
+(0830 - 0925)
+V
+Friday
+B14
+ECSE351L
+P
+Elective
+Tapas Badal
+Game Design, Development and Programming
+(0930 - 1025)
+V
+Friday
+B14
+ECSE351L
+P
+Elective
+Tapas Badal
+Game Design, Development and Programming
+(1040 - 1135)
+V
+Friday
+B14
+G4
+ECSE304L
+L
+Core
+Suchi
+Cloud Computing
+(1140 - 1235)
+V
+Friday
+B14
+G4
+ECSE305L
+L
+Core
+Shakti Sharma
+Automata Theory and Computability
+(1330 - 1425)
+V
+Friday
+B14
+ECSE352L
+P
+Elective
+Kuldeep
+Cryptography and Network Security
+(1430 - 1525)
+V
+Friday
+B14
+ECSE303L
+P
+Core
+Arpit Bhardwaj
+Artificial Intelligence and Machine Learning
+(1430 - 1525)
+V
+Friday
+B14
+ECSE352L
+P
+Elective
+Kuldeep
+Cryptography and Network Security
+(1430 - 1525)
+V
+Friday
+B14
+ECSE379L
+L
+Elective
+Shivani Goel
+Programming using C++
+(1540 - 1635)
+V
+Friday
+B14
+ECSE303L
+P
+Core
+Arpit Bhardwaj
+Artificial Intelligence and Machine Learning
+(1540 - 1635)
+V
+Friday
+B14
+ECSE379L
+P
+Elective
+Shivani Goel
+Programming using C++
+(1740 - 1835)
+V
+Friday
+B14
+ECSE379L
+P
+Elective
+Shivani Goel
+Programming using C++
+(0830

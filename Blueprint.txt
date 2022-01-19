@@ -1,0 +1,11 @@
+REGISTRATION
+
+1.Creating a starting html page to redirect to our 3 tasks.
+2 . creating a table to store the record of new user -NewUser
+3.creating forms to link table
+4.creating views method to save the data through forms object and to display the html page
+5.creating html page to designing and to get user data
+6.url -> views -> html-> views-> savedata. 
+
+LOGIN
+1.CREATE
